@@ -146,10 +146,10 @@ git stash pop
 
 # Extras
 
-![01_git_and_git_log .jpeg](Git%20d4421e291d8540629eba660964d4fc71/01_git_and_git_log_.jpeg)
+![01_git_and_git_log .jpeg](assets/01_git_and_git_log_.jpeg)
 
-![02_git_pull.jpeg](Git%20d4421e291d8540629eba660964d4fc71/02_git_pull.jpeg)
+![02_git_pull.jpeg](assets/02_git_pull.jpeg)
 
-![03_git_push.jpeg](Git%20d4421e291d8540629eba660964d4fc71/03_git_push.jpeg)
+![03_git_push.jpeg](assets/03_git_push.jpeg)
 
-![04_merge_and_rebase.png](Git%20d4421e291d8540629eba660964d4fc71/04_merge_and_rebase.png)
+![04_merge_and_rebase.png](assets/04_merge_and_rebase.png)
