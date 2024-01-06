@@ -144,6 +144,91 @@ git stash pop
 
 ---
 
+## Common Commit Message Types
+1. **`feat:` (Feature):**
+   - Indicates the addition of a new feature or significant enhancement.
+
+   Example:
+   ```
+   feat: Implement user authentication
+   ```
+
+2. **`fix:` (Bug Fix):**
+   - Signifies a bug fix or correction of an existing issue.
+
+   Example:
+   ```
+   fix: Resolve issue with login form validation
+   ```
+
+3. **`chore:` (Chores/Tasks):**
+   - Used for routine tasks, maintenance, or other non-feature-related changes.
+
+   Example:
+   ```
+   chore: Update build scripts
+   ```
+
+4. **`docs:` (Documentation):**
+   - Indicates changes or additions to documentation.
+
+   Example:
+   ```
+   docs: Update README with installation instructions
+   ```
+
+5. **`style:` (Code Style):**
+   - Used when only the formatting or coding style is changed, without affecting the code's logic.
+
+   Example:
+   ```
+   style: Format code according to style guide
+   ```
+
+6. **`refactor:` (Code Refactoring):**
+   - Signifies changes to the codebase that neither fix a bug nor add a feature but improve the code structure or design.
+
+   Example:
+   ```
+   refactor: Simplify error handling in user service
+   ```
+
+7. **`test:` (Tests):**
+   - Indicates changes or additions to tests.
+
+   Example:
+   ```
+   test: Add unit tests for authentication module
+   ```
+
+8. **`build:` (Build System):**
+   - Used for changes that affect the build system or external dependencies.
+
+   Example:
+   ```
+   build: Update npm packages to the latest version
+   ```
+
+9. **`ci:` (Continuous Integration):**
+   - Signifies changes to the configuration or scripts related to continuous integration.
+
+   Example:
+   ```
+   ci: Update Travis CI configuration
+   ```
+
+10. **`perf:` (Performance):**
+    - Indicates changes that improve the performance of the code.
+
+    Example:
+    ```
+    perf: Optimize database query for user retrieval
+    ```
+
+These prefixes help provide context and structure to your commit messages, making it easier for team members to understand the nature of changes in the project. The key is to adopt a convention that suits your team's workflow and stick to it consistently.
+
+---
+
 # Extras
 
 ![01_git_and_git_log .jpeg](assets/01_git_and_git_log_.jpeg)
